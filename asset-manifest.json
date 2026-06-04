@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secure-code-auditor-frontend/static/css/main.d161a81e.css",
+    "main.js": "/secure-code-auditor-frontend/static/js/main.0ecd0fb6.js",
+    "index.html": "/secure-code-auditor-frontend/index.html",
+    "main.d161a81e.css.map": "/secure-code-auditor-frontend/static/css/main.d161a81e.css.map",
+    "main.0ecd0fb6.js.map": "/secure-code-auditor-frontend/static/js/main.0ecd0fb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d161a81e.css",
+    "static/js/main.0ecd0fb6.js"
+  ]
+}
