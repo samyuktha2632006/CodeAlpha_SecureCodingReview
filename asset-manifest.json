@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CodeAlpha_SecureCodingReview/static/css/main.d161a81e.css",
-    "main.js": "/CodeAlpha_SecureCodingReview/static/js/main.b52856e0.js",
+    "main.js": "/CodeAlpha_SecureCodingReview/static/js/main.39f5ede0.js",
     "index.html": "/CodeAlpha_SecureCodingReview/index.html",
     "main.d161a81e.css.map": "/CodeAlpha_SecureCodingReview/static/css/main.d161a81e.css.map",
-    "main.b52856e0.js.map": "/CodeAlpha_SecureCodingReview/static/js/main.b52856e0.js.map"
+    "main.39f5ede0.js.map": "/CodeAlpha_SecureCodingReview/static/js/main.39f5ede0.js.map"
   },
   "entrypoints": [
     "static/css/main.d161a81e.css",
-    "static/js/main.b52856e0.js"
+    "static/js/main.39f5ede0.js"
   ]
 }
